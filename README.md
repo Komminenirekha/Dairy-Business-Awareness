@@ -33,3 +33,10 @@ Enhancing-Dairy-Business-Awareness/
 │── Presentations/
 │── Awareness-Materials/
 │── README.md
+
+---
+
+## Author
+👩‍💻 **Kommineni Rekha Chowdary**  
+- [LinkedIn](https://www.linkedin.com/in/kommineni-rekha-chowdary)  
+ - 📧 rekhachowdarykommineni@gmail.com  
